@@ -1,9 +1,4 @@
-![blood donation app](https://user-images.githubusercontent.com/25679263/40031419-42021df4-580d-11e8-941f-3f3b80458998.png)
 
-
----
-## Check v1.0
-[![Blood_Donation_Kamal](https://user-images.githubusercontent.com/25679263/40282658-4ed4c752-5c90-11e8-94ce-c7db6c1f91ac.jpg)](https://www.youtube.com/watch?v=HXrusHKrLQE "Blood Donation App V1.0 - Udacity Google India Scholars")
 
 ---
 ## How the app will work?
